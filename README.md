@@ -10,12 +10,16 @@ Please contact Adrian Bayer <abayer@princeton.edu> for any additional data.
 
 In all below cases, color is an integer between 0 and 511 which labels the sub-boxes, seed is an integer between 0 and 511 which labels the small boxes and SU boxes, and lg is a string 'l' or 'g' denoting the local or global mesh respectively.
 
-## Sub-boxes
+-------
+
+## Sub-boxes:
 ### cdm
 'proc4096_nc2048_size5000_nsteps60lin_ldr0_rcvfalse_fstnone_pnf2_lnf2_s100_pgdfalse_fll0.20/subbox/z0/cdm/color%d/stats/delta_%s_Nmesh256_c1i0cic.npy' % (color, lg)
 
 ### fof
 'proc4096_nc2048_size5000_nsteps60lin_ldr0_rcvfalse_fstnone_pnf2_lnf2_s100_pgdfalse_fll0.20/subbox/z0/fof/color%d/stats/N/delta_%s_Nmesh256_c1i0cic_Nmin80.npy % (color, lg)
+
+--------
 
 ## Small boxes:
 ### cdm
@@ -24,7 +28,9 @@ In all below cases, color is an integer between 0 and 511 which labels the sub-b
 ### fof
 'proc64_nc256_size625_nsteps60lin_ldr0_rcvfalse_fstnone_pnf2_lnf2_s%d_pgdfalse_fll0.20/subbox/z0/fof/color0/stats/N/delta_l_Nmesh256_c1i0cic_Nmin80.npy' % (1000 + seed)
 
-## SU
+--------
+
+## Seperate Universe:
 ### fid
 
 #### cdm
