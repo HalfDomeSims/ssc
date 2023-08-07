@@ -2,7 +2,7 @@
 
 Data accompanying paper: [Super-sample covariance of the power spectrum, bispectrum, halos, voids, and their cross-covariances](https://arxiv.org/abs/2210.15647)
 
-We provide the local and global overdensity (delta) grids for cdm and halos in the following location: <http://idark.ipmu.jp/~jia.liu/data/SSC_Bayer2023/>
+The local and global overdensity (delta) grids for cdm and halos are provided in the following location: <http://idark.ipmu.jp/~jia.liu/data/SSC_Bayer2023/>
 
 Please contact Adrian Bayer <abayer@princeton.edu> for any additional data.
 
