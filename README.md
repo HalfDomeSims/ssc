@@ -6,7 +6,7 @@ We provide the local and global overdensity (delta) grids for cdm and halos in t
 
 Please contact Adrian Bayer <abayer@princeton.edu> for any additional data.
 
-Filename definitions:
+# Filename definitions:
 
 In all below cases, color is an integer between 0 and 511 which labels the sub-boxes, seed is an integer between 0 and 511 which labels the small boxes and SU boxes, and lg is a string 'l' or 'g' denoting the local or global mesh respectively.
 
