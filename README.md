@@ -1,4 +1,4 @@
-# ssc
+# SSC
 
 Data accopmanying paper: [Super-sample covariance of the power spectrum, bispectrum, halos, voids, and their cross-covariances](https://arxiv.org/abs/2210.15647)
 
