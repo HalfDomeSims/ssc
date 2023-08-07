@@ -42,14 +42,14 @@ In all below cases, color is an integer between 0 and 511 which labels the sub-b
 ### -delta_b
 
 #### cdm
-'proc64_nc256_size631_nsteps60lin_ldr0_rcvtrue_fstnone_pnf2_lnf2_s1000_pgdfalse_fll0.20_ODE_su_db-3.000e-02/subbox/z0/cdm/color0/stats/delta_l_Nmesh256_c1i0cic.npy' % (1000 + seed)
+'proc64_nc256_size631_nsteps60lin_ldr0_rcvtrue_fstnone_pnf2_lnf2_s%d_pgdfalse_fll0.20_ODE_su_db-3.000e-02/subbox/z0/cdm/color0/stats/delta_l_Nmesh256_c1i0cic.npy' % (1000 + seed)
 
 #### fof
-'proc64_nc256_size631_nsteps60lin_ldr0_rcvtrue_fstnone_pnf2_lnf2_s1000_pgdfalse_fll0.20_ODE_su_db-3.000e-02/subbox/z0/fof/color0/stats/N/delta_l_Nmesh256_c1i0cic_Nmin80.npy' % (1000 + seed)
+'proc64_nc256_size631_nsteps60lin_ldr0_rcvtrue_fstnone_pnf2_lnf2_s%d_pgdfalse_fll0.20_ODE_su_db-3.000e-02/subbox/z0/fof/color0/stats/N/delta_l_Nmesh256_c1i0cic_Nmin80.npy' % (1000 + seed)
 
 ### +delta_b
 #### cdm
-'proc64_nc256_size619_nsteps60lin_ldr0_rcvtrue_fstnone_pnf2_lnf2_s1000_pgdfalse_fll0.20_ODE_su_db3.000e-02/subbox/z0/cdm/color0/stats/delta_l_Nmesh256_c1i0cic.npy' % (1000 + seed)
+'proc64_nc256_size619_nsteps60lin_ldr0_rcvtrue_fstnone_pnf2_lnf2_s%d_pgdfalse_fll0.20_ODE_su_db3.000e-02/subbox/z0/cdm/color0/stats/delta_l_Nmesh256_c1i0cic.npy' % (1000 + seed)
 
 #### fof
-'proc64_nc256_size619_nsteps60lin_ldr0_rcvtrue_fstnone_pnf2_lnf2_s1000_pgdfalse_fll0.20_ODE_su_db3.000e-02/subbox/z0/fof/color0/stats/N/delta_l_Nmesh256_c1i0cic_Nmin80.npy' % (1000 + seed)
+'proc64_nc256_size619_nsteps60lin_ldr0_rcvtrue_fstnone_pnf2_lnf2_s%d_pgdfalse_fll0.20_ODE_su_db3.000e-02/subbox/z0/fof/color0/stats/N/delta_l_Nmesh256_c1i0cic_Nmin80.npy' % (1000 + seed)
